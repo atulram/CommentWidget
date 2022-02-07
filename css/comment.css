@@ -1,0 +1,21 @@
+.mt-1{
+    margin-top: 1em;
+}
+.mr-1{
+    margin-right: 1em;
+}
+.text{
+    font: 1.2rem;
+}
+
+.action-buttons{
+    display: flex;
+}
+
+.hide{
+    display: none;
+}
+
+.comment-holder{
+    padding: 0.5em;
+}
